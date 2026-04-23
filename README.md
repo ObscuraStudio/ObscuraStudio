@@ -10,7 +10,7 @@
 
 ## Currently:
 
-- 🕹️ Unreal Engine projects with **Active Fungus Studios** & solo under my own studio, **Obscura Nox**
+- 🕹️ Unreal Engine projects with **Active Fungus Studios** (Animation / Game Flow) & solo (Generalist) under my own studio, **Obscura Nox**
 - 🛠️ Deep diving in IT & Tech with a strong focus on backend
 
 ## Back then:
@@ -29,16 +29,18 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/Blueprints-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 **Languages & Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 **Version Control**
 
