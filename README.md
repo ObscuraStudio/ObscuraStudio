@@ -18,7 +18,7 @@
 - 🎸 6 years in trailer music for e.g. **Marvel, Disney & Nintendo** and advertisment — these days just for the love of it
 - 🎸 Toured EU & JP as a live musician and produced dozens of local bands in my own studio
 - 🎸 Written & produced entrance themes for several EU/US Wrestlers
-- 🛠️ Worked in the climate unit industry in project procurement for data centres for MANG
+- 🛠️ Worked in the climate unit industry in project procurement for data centres for MAMG
 
 ---
 
