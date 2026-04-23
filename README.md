@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/250bfe3d-b621-45dc-9fcb-06aa8577a4d5/thumbnail" >
+</p>
 
 <!--
 **ObscuraStudio/ObscuraStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
