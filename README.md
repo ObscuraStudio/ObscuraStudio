@@ -31,7 +31,6 @@
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -59,7 +58,7 @@
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodeskmaya&logoColor=white)
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-EE6D2D?style=for-the-badge&logo=adobe&logoColor=white)
-![Cascadeur](https://img.shields.io/badge/Cascadeur-313131?style=for-the-badge)
+![Cascadeur](https://img.shields.io/badge/Cascadeur-1E90FF?style=for-the-badge&logoColor=white)
 
 ### 🎚️ Audio & Video
 ![Cubase](https://img.shields.io/badge/Cubase-1A1A1A?style=for-the-badge)
@@ -71,7 +70,6 @@
 ![Rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-00C2CB?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
