@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max 👋</h1>
 
 <p align="center">
-  Game developer & musician — currently going deep on Java and C++.
+  Game developer & musician — currently going deep on Unreal Engine and C++.
 </p>
 
 ---
@@ -10,15 +10,15 @@
 
 ## Currently:
 
-- 🕹️ Unreal Engine projects with **Active Fungus Studios** (Technical Animator) & solo (Generalist) under my own studio, **Obscura Nox**
+- 🕹️ Unreal Engine projects with **Active Fungus Studios** (Technical Animator & Gameplay Programmer) & solo (Generalist) under my own studio, **Obscura Nox**
 - 🛠️ Deep diving in IT & Tech with a strong focus on backend
 
 ## Back then:
 
-- 🎸 6 years in trailer music for e.g. **Marvel, Disney & Nintendo** and advertisment — these days just for the love of it
+- 🎸 6 years in trailer music for e.g. **Marvel, Disney & Nintendo** and advertisement — these days just for the love of it
 - 🎸 Toured EU & JP as a live musician and produced dozens of local bands in my own studio
 - 🎸 Written & produced entrance themes for several EU/US Wrestlers
-- 🛠️ Worked in the climate unit industry in project procurement for data centres for MAMG
+- 🛠️ Worked in the climate unit industry in project procurement for data centers for MAMG
 
 ---
 
