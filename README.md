@@ -11,7 +11,6 @@
 ## Currently:
 
 - 🕹️ Unreal Engine projects with **Active Fungus Studios** (Technical Animator & Gameplay Programmer) & solo (Generalist) under my own studio, **Obscura Nox**
-- 🛠️ Deep diving in IT & Tech with a strong focus on backend
 
 ## Back then:
 
